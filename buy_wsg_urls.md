@@ -1,5 +1,4 @@
 # buy_wsg
-Links where to buy $WSG
 🟣 WHERE TO BUY $WSG 💸
 
 PancakeSwap (https://exchange.pancakeswap.finance/#/swap?outputCurrency=0xA58950F05FeA2277d2608748412bf9F802eA4901)
